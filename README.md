@@ -17,4 +17,8 @@ Then execute this command in your terminal.
 spring init --dependencies=web --language=groovy --build=gradle spring-boot-thymeleaf
 ```
 
+#### To Run the Project
 
+```bash
+gradle bootRun
+```
