@@ -5,7 +5,12 @@ This repository show you how to create a basic project using Spring Boot with Th
 
 #### Create Project
 
-In order to create an basic Spring Boot project you need to install [SDKMAN](http://sdkman.io/) if you are using Linux or Mac or [posh-gvm](https://github.com/flofreud/posh-gvm) if you are using Windows. Then execute this command in your terminal.
+In order to create an basic Spring Boot project you need to install [SDKMAN](http://sdkman.io/) if you are using Linux or Mac or [posh-gvm](https://github.com/flofreud/posh-gvm) if you are using Windows. After that you can easily:
+
+* Spring Boot
+* Gradle
+
+Then execute this command in your terminal.
 
 
 ```bash
