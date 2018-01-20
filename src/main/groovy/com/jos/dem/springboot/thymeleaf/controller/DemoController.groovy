@@ -1,4 +1,4 @@
-package com.example.springbootthymeleaf.controller
+package com.jos.dem.springboot.thymeleaf.controller
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.servlet.ModelAndView
