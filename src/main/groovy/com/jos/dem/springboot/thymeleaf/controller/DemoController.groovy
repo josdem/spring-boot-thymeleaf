@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller
 import org.springframework.web.servlet.ModelAndView
 import org.springframework.web.bind.annotation.RequestMapping
 
-import com.example.springbootthymeleaf.model.Person
+import com.jos.dem.springboot.thymeleaf.model.Person
 
 @Controller
 class DemoController{

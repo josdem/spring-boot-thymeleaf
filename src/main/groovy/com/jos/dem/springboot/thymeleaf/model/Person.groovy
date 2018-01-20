@@ -1,4 +1,4 @@
-package com.example.springbootthymeleaf.model
+package com.jos.dem.springboot.thymeleaf.model
 
 class Person{
   String nickname
