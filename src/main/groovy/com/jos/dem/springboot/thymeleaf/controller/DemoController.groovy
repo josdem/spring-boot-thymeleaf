@@ -1,4 +1,4 @@
-package com.example.springbootthymeleaf.controller
+package com.jos.dem.springboot.thymeleaf.controller
 
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.web.bind.annotation.RequestMapping
